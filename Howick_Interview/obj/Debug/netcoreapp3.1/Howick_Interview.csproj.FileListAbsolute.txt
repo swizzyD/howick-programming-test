@@ -1,0 +1,15 @@
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\bin\Debug\netcoreapp3.1\Howick_Interview.exe
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\bin\Debug\netcoreapp3.1\Howick_Interview.deps.json
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\bin\Debug\netcoreapp3.1\Howick_Interview.runtimeconfig.json
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\bin\Debug\netcoreapp3.1\Howick_Interview.runtimeconfig.dev.json
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\bin\Debug\netcoreapp3.1\Howick_Interview.dll
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\bin\Debug\netcoreapp3.1\Howick_Interview.pdb
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.csprojAssemblyReference.cache
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.Form1.resources
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.csproj.GenerateResource.cache
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.csproj.CoreCompileInputs.cache
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.AssemblyInfoInputs.cache
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.AssemblyInfo.cs
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.dll
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.pdb
+H:\OneDrive - The University of Auckland\University of Auckland\Jobs\Howick\Howick_Interview\obj\Debug\netcoreapp3.1\Howick_Interview.genruntimeconfig.cache
